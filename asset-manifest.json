@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.e2e85a21.chunk.css",
+    "main.js": "/react-deploy/static/js/main.38b05418.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.38b05418.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.39b4e5a3.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.39b4e5a3.js.map",
+    "static/js/2.ab51d558.chunk.js": "/react-deploy/static/js/2.ab51d558.chunk.js",
+    "static/js/2.ab51d558.chunk.js.map": "/react-deploy/static/js/2.ab51d558.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "static/css/main.e2e85a21.chunk.css.map": "/react-deploy/static/css/main.e2e85a21.chunk.css.map",
+    "static/js/2.ab51d558.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.ab51d558.chunk.js.LICENSE.txt",
+    "static/media/banner.c334ec41.PNG": "/react-deploy/static/media/banner.c334ec41.PNG",
+    "static/media/banner2.72b90957.PNG": "/react-deploy/static/media/banner2.72b90957.PNG",
+    "static/media/bit.ce2f3024.png": "/react-deploy/static/media/bit.ce2f3024.png",
+    "static/media/logo.ea678db9.png": "/react-deploy/static/media/logo.ea678db9.png",
+    "static/media/zebpay.8e6bd21b.png": "/react-deploy/static/media/zebpay.8e6bd21b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b4e5a3.js",
+    "static/js/2.ab51d558.chunk.js",
+    "static/css/main.e2e85a21.chunk.css",
+    "static/js/main.38b05418.chunk.js"
+  ]
+}
